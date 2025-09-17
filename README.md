@@ -1,5 +1,3 @@
-Here is a unique version of your experiment, focusing on a scenario related to fitness and nutrition.
-
 ### **Ex.No.3 - Scenario-Based Report on Fitness & Nutrition Information Retrieval**
 ### **DATE:** 17-09-2025
 ### **NAME:** JAGADEESH P
