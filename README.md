@@ -1,90 +1,64 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+Here is a unique version of your experiment, focusing on a scenario related to fitness and nutrition.
 
-### NAME: JAGADEESH P
-### REGISTER NUMBER : 212223230083
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word ### 
+### **Ex.No.3 - Scenario-Based Report on Fitness & Nutrition Information Retrieval**
+### **DATE:** 17-09-2025
+### **NAME:** JAGADEESH P
+### **REGISTER NUMBER:** 212223230083
 
-### Procedure:
+
+### Aim
+To write and evaluate prompts for the following prompt engineering types based on a fitness and nutrition scenario: 1. Straightforward Prompts, 2. Tabular Format Prompting, 3. Preceding Question Prompting, and 4. Missing Word Prompting.
+
+### Procedure
 ### Prompting
+
 ### 1. Straightforward Prompts
-
-### Prompt:
-"Provide the steps to troubleshoot when my washing machine is not turning on."
-
-### ChatGPT:
-
-Check if the power cord is plugged in.
-
-Ensure the switch and circuit breaker are working.
-
-Verify the washing machine door is closed properly.
-
-Try resetting the machine if it has a reset button.
-
-If the issue persists, contact service support.
-
-### Gemini:
-
-Make sure the machine is connected to power.
-
-Confirm the socket is working by testing with another device.
-
-Restart or unplug and plug back the machine.
-
-Call customer service if still not working.
+### Prompt
+"Explain the benefits of compound exercises for building muscle."
+### ChatGPT
+Compound exercises like squats, deadlifts, and bench presses work multiple muscle groups simultaneously, stimulating greater muscle fiber recruitment. This leads to increased testosterone and growth hormone release, promoting overall muscle growth more efficiently than isolation exercises. They also improve intermuscular coordination and functional strength.
+### Gemini
+Compound exercises are effective for muscle building because they use several muscles at once. This saves time in the gym and burns more calories compared to single-joint movements. Exercises like pull-ups and squats help you get stronger for everyday activities.
 
 ### 2. Tabular Format Prompting
+### Prompt
+"Provide a table comparing the nutritional profiles of whey protein isolate and whey protein concentrate per serving."
+### ChatGPT
+| Feature | Whey Protein Isolate | Whey Protein Concentrate |
+| :--- | :--- | :--- |
+| Protein Content | Higher (around 90%) | Lower (around 80%) |
+| Lactose | Very low to none | Low |
+| Fat | Very low | Low |
+| Processing | More filtered | Less filtered |
+### Gemini
+| Type | Protein | Carbs/Fat | Good For |
+| :--- | :--- | :--- | :--- |
+| Isolate | More protein | Less | Lactose sensitive people |
+| Concentrate | Less protein | More | General use, budget-friendly|
 
-### Prompt:
-"Provide a table comparing warranty support vs. non-warranty support for our products."
-
-### ChatGPT:
-
-Feature	Warranty Support	Non-Warranty Support
-Repair Cost	Free or minimal (covered)	Paid by customer
-Parts Replacement	Free if covered in warranty	Paid replacement
-Service Time	Priority support	Standard queue
-
-### Gemini:
-
-Feature	Warranty Support	Non-Warranty Support
-Repair Cost	Covered (no extra pay)	Customer pays
-Service Time	Faster	Normal waiting time
-3. Preceding Question Prompting
-
-### Prompt:
-"Why might my order be delayed? Explain how shipping partners affect delivery time."
-
-### ChatGPT:
-Order delays can occur due to stock availability, address verification, or courier backlogs. Shipping partners may experience delays due to traffic, bad weather, or overloaded logistics networks. These factors extend the delivery time beyond the expected date.
-
-### Gemini:
-Your order can be delayed because of sellers, packaging issues, or couriers. Delivery partners may face weather problems or longer routes, which slows down delivery.
+### 3. Preceding Question Prompting
+### Prompt
+"I am trying to lose fat while preserving the muscle I've built from calisthenics. What is a caloric deficit and why is it important?"
+### ChatGPT
+A caloric deficit occurs when you consume fewer calories than your body expends for energy. It is fundamentally important for fat loss because it forces your body to use its stored fat as an alternative energy source. To preserve muscle during this phase, it's crucial to maintain a high protein intake and continue with resistance training like your calisthenics routine.
+### Gemini
+A caloric deficit means eating less energy than you burn. Your body then uses stored fat for fuel, which is why it is the key to losing weight and body fat.
 
 ### 4. Missing Word Prompting
+### Prompt
+"Progressive overload means gradually increasing the stress placed on your muscles over time. For example, you can increase the weight, reps, or ____."
+### ChatGPT
+"number of sets."
+### Gemini
+"training volume."
 
-### Prompt:
-"If your order status shows ‘In Transit’, it means your package is currently ____."
+### **Evaluation Metrics (Accuracy & Clarity)**
+| Prompt Type | ChatGPT Accuracy | ChatGPT Clarity | Gemini Accuracy | Gemini Clarity |
+| :--- | :--- | :--- | :--- | :--- |
+| Straightforward Prompts | 5/5 (explains physiological mechanism) | 4/5 (uses technical terms) | 4/5 (correct but simpler) | 5/5 (very easy to understand) |
+| Tabular Format Prompting | 5/5 (detailed and specific) | 5/5 (well-structured table) | 4/5 (less detailed, but correct) | 4/5 (simpler categories) |
+| Preceding Question Prompt | 5/5 (contextualizes answer to user goal) | 5/5 (clear and actionable advice) | 4/5 (correct but very brief) | 4/5 (lacks detail on preserving muscle) |
+| Missing Word Prompting | 5/5 (provides a correct and common variable) | 5/5 (very clear example) | 5/5 (provides a correct, broader term) | 4/5 (less specific than "sets") |
 
-### ChatGPT:
-"on the way to your delivery address."
-
-### Gemini:
-"moving through the courier network."
-
-
-## **Evaluation Metrics (Accuracy & Efficiency)**  
-
-| Prompt Type              | ChatGPT Accuracy                          | ChatGPT Efficiency          | Gemini Accuracy                       | Gemini Efficiency          |
-|---------------------------|-------------------------------------------|-----------------------------|---------------------------------------|-----------------------------|
-| Straightforward Prompts   | 5/5 (detailed, stepwise)                  | 4/5 (slightly wordy)        | 4/5 (less detail, but correct)        | 5/5 (short & quick)        |
-| Tabular Format Prompting  | 5/5 (well-structured, complete table)     | 4/5 (a bit longer to read)  | 4/5 (simpler, but missing detail)     | 5/5 (compact table)        |
-| Preceding Question Prompt | 5/5 (explains both causes + courier role) | 4/5 (slightly lengthy)      | 4/5 (correct but less explanation)    | 5/5 (concise)              |
-| Missing Word Prompting    | 5/5 (precise & customer-friendly)         | 5/5 (very efficient)        | 4/5 (correct but less natural wording)| 4/5 (less smooth)          |
-
-
-## **Result**  
-
-The experiment was successfully executed using four prompting techniques with ChatGPT and Gemini.  
-Both tools generated meaningful responses, and their performance was evaluated based on accuracy and efficiency.  
-
+### **Result**
+The experiment was successfully conducted to evaluate responses from ChatGPT and Gemini using four distinct prompting techniques in a fitness and nutrition context. Both models provided relevant answers, with performance varying in terms of detail and clarity.
